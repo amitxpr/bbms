@@ -1,4 +1,5 @@
 <?php
+	// just test
 if(isset($_POST['submit_password']) && $_POST['key'] && $_POST['reset'])
 {
   $email=$_POST['email'];
